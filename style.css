@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+    width: 40vw;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+h1 {
+    color: #F2F2F2;
+    font-size: 5vw;
+    font-family: "Helvetica, Times, serif";
+    font-weight: bolder;
+}
+
+body {
+    background: #65CCB8;
+}
+
+button {
+    background-color: #65CCB8;
+    color: #F2F2F2;
+    height: 4vw;
+    width: 8vw;
+    font-size: 1.5vw;
+    font-weight: bold;
+    font-family: "Helvetica, Times, serif";
+    border-color: #F2F2F2;
+    border-style: solid;
+    border-style: thin;
+    border-radius: 35%;
+}
+
+#reset {
+    margin-left: 45.5vw;
+    margin-bottom: 2vw;
+}
+
+.container {
+    display: grid;
+    grid-gap: 1px;
+    width: 45vw;
+    margin: 0 auto;
+}
+
+.gridSquare {
+    background-color: #3B945E;
+    width: 100%;
+    height: same-as-width;
+    padding-top: 100%;
+}
